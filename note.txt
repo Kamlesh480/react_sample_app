@@ -1,0 +1,20 @@
+1. To start a react dev tool:
+a. npm install -g react-devtools
+b. add  <script src="http://localhost:8097"></script>
+    <!-- Add this line -->
+    in your html page
+c. hit "react-devtools" on terminal in react-app
+
+refer: https://react.dev/learn/react-developer-tools
+
+2. Check css code for bootstrap (cammand to install:  npm i bootstrap@5.2.3)
+Refer: https://getbootstrap.com/docs
+
+3. Javascript compiler
+Refer: https://babeljs.io/
+
+4. React doc
+Refer: https://react.dev/
+
+5. Vite: Vite is a modern build tool that can help simplify the development process for React applications by providing a fast, streamlined experience for development and production builds.
+Refer: https://vitejs.dev/
