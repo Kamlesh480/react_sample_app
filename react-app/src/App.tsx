@@ -1,19 +1,12 @@
-import ListGroup from "./components/ListGroup";
+import MyButton from "./components/MyButton";
 
 function App() {
-  let items = ["a", "b", "c", "d"];
-
-  const handleSelectItem = (item: string) => {
-    console.log(item);
-  };
-
   return (
     <div>
-      <ListGroup
-        items={items}
-        heading={"English"}
-        onSelectItem={handleSelectItem}
-      ></ListGroup>
+      <MyButton
+        children={"Hey"}
+        onClick={() => console.log("B clicked")}
+      ></MyButton>
     </div>
   );
 }
