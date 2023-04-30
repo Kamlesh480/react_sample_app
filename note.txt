@@ -18,3 +18,11 @@ Refer: https://react.dev/
 
 5. Vite: Vite is a modern build tool that can help simplify the development process for React applications by providing a fast, streamlined experience for development and production builds.
 Refer: https://vitejs.dev/
+
+6. cammand to run project
+
+cd react-app
+npm run dev
+
+7. Youtube link:
+https://www.youtube.com/watch?v=SqcY0GlETPk
